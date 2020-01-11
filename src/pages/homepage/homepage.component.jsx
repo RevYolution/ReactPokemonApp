@@ -4,8 +4,8 @@ import './homepage.styles.scss';
 
 const HomePage = () => (
     <div className='homepage'>
-        <h1>Start of App</h1>
+        <h1>Home Page</h1>
     </div>
-)
+);
 
 export default HomePage;
