@@ -10,10 +10,13 @@ const Header = () => (
                 Home
             </Link>
             <Link className='option' to='/vghome'>
-                VG Home Page
+                VG
             </Link>
             <Link className='option' to='/tcghome'>
-                TCG Home Page
+                TCG 
+            </Link>
+            <Link className='option' to='/about'>
+                About
             </Link>
         </div>
     </div>
